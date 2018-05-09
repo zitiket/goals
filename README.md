@@ -4,7 +4,7 @@
 
 Zitiket helps people to organize songs or music.
 
-See the [use cases](usecases.html).
+See the [use cases](usecases.md).
 
 ## Thanks
 
